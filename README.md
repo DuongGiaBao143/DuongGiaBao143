@@ -1,6 +1,6 @@
 # Hi, I'm Bảo 👋
 
-🎓 Second-year Computer Science student at Ho Chi Minh City University of Technology (HCMUT)
+🎓 Second-year Computer Science student at Ho Chi Minh City University of Technology (HCMUT) \\
 🧠 Focused on Artificial Intelligence — Computer Vision, Deep Learning, Multimodal Learning, and LLMs & AI Agents
 ⚙️ Building practical ML projects, from real-time recognition systems to automation tools
 🔭 Currently preparing to join an AI Agents research lab
