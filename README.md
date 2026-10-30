@@ -1,29 +1,27 @@
 # Hi, I'm Bảo 👋
 
-🎓 Second-year Computer Science student at Ho Chi Minh City University of Technology (HCMUT)
+🎓 Computer Science student at Ho Chi Minh City University of Technology (HCMUT)
 
-🧠 Focused on Artificial Intelligence — Computer Vision, Deep Learning, Multimodal Learning, and LLMs & AI Agents
+🧠 Interested in AI research and applied machine learning, especially computer vision, LLMs, and AI agents
 
-⚙️ Building practical ML projects, from real-time recognition systems to automation tools
+🔬 Exploring privacy-aware retrieval and how language models can work with real-world data
 
-🔭 Currently preparing to join an AI Agents research lab
+⚙️ Building projects across machine learning, computer vision, and automation
 
-🌱 Deepening my foundations in algorithms and the math behind machine learning
+🌱 Strengthening my foundations in algorithms, mathematics, and experimental research
 
-👯 Open to collaborating on AI/CV projects
+👯 Open to collaborating on AI, computer vision, and research projects
 
-💬 Ask me about model training, computer vision pipelines, or debugging ML workflows
-
-📫 Contact: bao.duongdgb143@hcmut.edu.vn
+📫 **Contact:** bao.duongdgb143@hcmut.edu.vn
 
 ---
 
-### Projects
-- **Emotion & Gesture Recognition** — real-time recognition app built with Streamlit (~80% test accuracy, macro F1-score)
-- **Automated Exam Grading System** — OMR-based grading pipeline using Python and OpenCV
-- **Kaggle Spaceship Titanic** — classification with Random Forest, XGBoost, and stacking ensembles
-- **Tom & Jerry Character Detector** — object detection using HOG features and SVM
-- **A\* Search Algorithm** — pathfinding implementation in C++ (coursework project)
+### What I'm working on
+
+- **Privacy-aware retrieval research** — exploring retrieval systems and experimental evaluation for privacy-focused applications.
+- **Vietnamese text-to-code** — exploring how language models can generate Python/Pandas or SQL to answer questions over business data.
+- **Emotion & Gesture Recognition** — a real-time recognition application built with Streamlit.
+- **Automated Exam Grading** — an OMR-based grading pipeline using Python and OpenCV.
 
 ---
 
