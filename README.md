@@ -1,7 +1,7 @@
 <!-- GitHub Profile README | DuongGiaBao143 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=210&section=header&text=Duong%20Gia%20Bao&fontSize=44&fontAlignY=38&fontColor=ffffff&desc=Computer%20Science%20%7C%20AI%20%26%20Machine%20Learning%20%7C%20HCMUT&descSize=17&descAlignY=60&animation=twinkling" width="100%" alt="Duong Gia Bao - AI and Machine Learning" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=210&section=header&text=Duong%20Gia%20Bao&fontSize=44&fontAlignY=38&fontColor=ffffff&desc=Computer%20Science%20%7C%20AI%20and%20Machine%20Learning%20%7C%20HCMUT&descSize=17&descAlignY=60&animation=twinkling" width="100%" alt="Duong Gia Bao - AI and Machine Learning" />
 
   <p align="center">
     <code>AI Research</code> • <code>Computer Vision</code> • <code>LLMs & AI Agents</code>
