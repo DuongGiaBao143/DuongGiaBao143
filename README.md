@@ -1,55 +1,52 @@
 <!-- GitHub profile · DuongGiaBao143 -->
 
-<div align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:070b14,100:12264a&height=230&text=Duong%20Gia%20Bao&fontSize=52&fontColor=e6edf3&fontAlignY=43&desc=AI%20Research%20%7C%20Computer%20Vision%20%7C%20LLMs&descSize=17&descAlignY=65&animation=none&stroke=none&strokeWidth=0" width="100%" alt="Duong Gia Bao — AI Research, Computer Vision, and LLMs" />
-  <p>
-    <a href="https://duonggiabao143.github.io/"><strong>Portfolio ↗</strong></a>
-    &nbsp; / &nbsp;
-    <a href="#selected-work">Selected work</a>
-    &nbsp; / &nbsp;
-    <a href="mailto:bao.duongdgb143@hcmut.edu.vn">Email ↗</a>
-  </p>
-</div>
+</p>
 
-Computer Science student at **Ho Chi Minh City University of Technology (HCMUT)**. I explore **computer vision, language models, and privacy-aware retrieval**, through projects in recognition, text-to-code, and automation.
+<p align="center">
+  <strong>Computer Science @ HCMUT</strong><br />
+  <sub>Exploring computer vision, language models, and privacy-aware retrieval.</sub>
+</p>
 
-## Selected work
+<p align="center">
+  <a href="https://duonggiabao143.github.io/"><img src="https://img.shields.io/badge/View_Portfolio-1f6feb?style=for-the-badge" alt="View portfolio" height="30" /></a>
+  &nbsp;
+  <a href="mailto:bao.duongdgb143@hcmut.edu.vn"><img src="https://img.shields.io/badge/Email_Me-161b22?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email Bao" height="30" /></a>
+</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>01 / RESEARCH</sub>
-      <h3>Privacy-aware retrieval</h3>
-      <p>Investigating retrieval systems for privacy-focused applications, with an emphasis on experimental evaluation.</p>
-      <p><code>Retrieval systems</code> <code>Privacy</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <sub>02 / LANGUAGE MODELS</sub>
-      <h3>Vietnamese text-to-code</h3>
-      <p>Exploring how language models turn Vietnamese questions into Python/Pandas or SQL queries over business data.</p>
-      <p><code>LLMs</code> <code>Pandas</code> <code>SQL</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>03 / COMPUTER VISION</sub>
-      <h3>Emotion &amp; gesture recognition</h3>
-      <p>A real-time recognition application built with Streamlit.</p>
-      <p><code>Computer vision</code> <code>Streamlit</code></p>
-      <p><a href="https://github.com/DuongGiaBao143/yolov10-mediapipe-gesture-emotion">Explore my fork ↗</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <sub>04 / AUTOMATION</sub>
-      <h3>Automated exam grading</h3>
-      <p>An optical mark recognition pipeline for processing and grading answer sheets with Python and OpenCV.</p>
-      <p><code>Python</code> <code>OpenCV</code> <code>OMR</code></p>
-    </td>
-  </tr>
-</table>
+<br />
 
-## Toolbox
+### Selected projects
 
-<code>C++</code> · <code>Python</code> · <code>SQL</code> · <code>Pandas</code> · <code>PyTorch</code> · <code>vLLM</code> · <code>OpenCV</code> · <code>Streamlit</code> · <code>Git</code> · <code>GitHub</code>
+**Privacy-aware retrieval**  
+Retrieval systems and experimental evaluation for privacy-focused applications.
+
+**Vietnamese text-to-code**  
+Exploring language models that turn Vietnamese questions into Pandas or SQL queries.
+
+**[Emotion & gesture recognition ↗](https://github.com/DuongGiaBao143/yolov10-mediapipe-gesture-emotion)**  
+Real-time recognition with Streamlit. The link opens my public fork.
+
+**Automated exam grading**  
+An OMR pipeline for grading answer sheets with Python and OpenCV.
+
+<br />
+
+### Tools I work with
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-161b22?style=flat-square&logo=cplusplus&logoColor=58a6ff" alt="C++" height="22" />
+  <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=58a6ff" alt="Python" height="22" />
+  <img src="https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=58a6ff" alt="SQL" height="22" />
+  <img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=58a6ff" alt="Pandas" height="22" />
+  <img src="https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=58a6ff" alt="PyTorch" height="22" />
+  <img src="https://img.shields.io/badge/vLLM-161b22?style=flat-square" alt="vLLM" height="22" />
+  <img src="https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=58a6ff" alt="OpenCV" height="22" />
+  <img src="https://img.shields.io/badge/Streamlit-161b22?style=flat-square&logo=streamlit&logoColor=58a6ff" alt="Streamlit" height="22" />
+  <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=58a6ff" alt="Git" height="22" />
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=58a6ff" alt="GitHub" height="22" />
+</p>
 
 <details>
   <summary>GitHub activity</summary>
@@ -60,6 +57,3 @@ Computer Science student at **Ho Chi Minh City University of Technology (HCMUT)*
   </p>
 </details>
 
----
-
-<sub>Interested in collaborating on AI, computer vision, or research? <a href="mailto:bao.duongdgb143@hcmut.edu.vn">Let's talk ↗</a></sub>
