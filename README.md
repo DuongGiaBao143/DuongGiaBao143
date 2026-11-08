@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Computer Science @ HCMUT</strong><br />
-  <sub>Exploring computer vision, language models, and privacy-aware retrieval.</sub>
+  <sub>Research and engineering in machine learning, computer vision, and language models.</sub>
 </p>
 
 <p align="center">
@@ -17,35 +17,38 @@
 
 <br />
 
-### Selected projects
+### Research & Engineering
 
-**Privacy-aware retrieval**  
-Retrieval systems and experimental evaluation for privacy-focused applications.
+**Privacy-Preserving Retrieval**  
+Retrieval-system research for privacy-sensitive applications, with a focus on experimental evaluation.
 
-**Vietnamese text-to-code**  
-Exploring language models that turn Vietnamese questions into Pandas or SQL queries.
+**Vietnamese Text-to-Code**  
+Natural-language interfaces for structured data, covering Vietnamese question interpretation and Python/Pandas or SQL query generation.
 
-**[Emotion & gesture recognition ↗](https://github.com/DuongGiaBao143/yolov10-mediapipe-gesture-emotion)**  
-Real-time recognition with Streamlit. The link opens my public fork.
+**[Real-Time Gesture & Emotion Recognition ↗](https://github.com/DuongGiaBao143/yolov10-mediapipe-gesture-emotion)**  
+Team project combining YOLOv10 gesture detection and facial-emotion inference in a Streamlit application.
 
-**Automated exam grading**  
-An OMR pipeline for grading answer sheets with Python and OpenCV.
+**Automated Exam Grading**  
+OMR-based answer-sheet processing and grading with Python and OpenCV.
+
+**[Assessment Generation Workflows ↗](https://github.com/DuongGiaBao143/Homework-creator)**  
+Agent-assisted mathematics exam generation with shared reference retrieval and reusable workflows for Grades 10 and 12.
 
 <br />
 
-### Tools I work with
+### Technical stack
 
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-161b22?style=flat-square&logo=cplusplus&logoColor=58a6ff" alt="C++" height="22" />
-  <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=58a6ff" alt="Python" height="22" />
-  <img src="https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=58a6ff" alt="SQL" height="22" />
-  <img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=58a6ff" alt="Pandas" height="22" />
-  <img src="https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=58a6ff" alt="PyTorch" height="22" />
-  <img src="https://img.shields.io/badge/vLLM-161b22?style=flat-square" alt="vLLM" height="22" />
-  <img src="https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=58a6ff" alt="OpenCV" height="22" />
-  <img src="https://img.shields.io/badge/Streamlit-161b22?style=flat-square&logo=streamlit&logoColor=58a6ff" alt="Streamlit" height="22" />
-  <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=58a6ff" alt="Git" height="22" />
-  <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=58a6ff" alt="GitHub" height="22" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/vLLM-2563EB?style=for-the-badge" alt="vLLM" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 <details>
