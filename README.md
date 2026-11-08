@@ -5,47 +5,52 @@
 </p>
 
 <p align="center">
-  <strong>Computer Science @ HCMUT</strong><br />
-  <sub>Research and engineering in machine learning, computer vision, and language models.</sub>
-</p>
-
-<p align="center">
   <a href="https://duonggiabao143.github.io/"><img src="https://img.shields.io/badge/View_Portfolio-1f6feb?style=for-the-badge" alt="View portfolio" height="30" /></a>
   &nbsp;
   <a href="mailto:bao.duongdgb143@hcmut.edu.vn"><img src="https://img.shields.io/badge/Email_Me-161b22?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email Bao" height="30" /></a>
 </p>
 
-<br />
+### Hi, I'm Bảo 👋
 
-### Research & Engineering
+🎓 Computer Science student at **Ho Chi Minh City University of Technology (HCMUT)**.
 
-**Privacy-Preserving Retrieval**  
-Retrieval-system research for privacy-sensitive applications, with a focus on experimental evaluation.
+I'm interested in **AI research and applied machine learning**, particularly **Large Language Models, Computer Vision, and AI Agents**.
 
-**Vietnamese Text-to-Code**  
-Natural-language interfaces for structured data, covering Vietnamese question interpretation and Python/Pandas or SQL query generation.
+I enjoy exploring how AI systems can reason over real-world data, become more reliable, and move beyond experimental prototypes.
 
-**[Real-Time Gesture & Emotion Recognition ↗](https://github.com/DuongGiaBao143/yolov10-mediapipe-gesture-emotion)**  
-Team project combining YOLOv10 gesture detection and facial-emotion inference in a Streamlit application.
+### 🔬 Current Focus
+
+- **LLMs & AI Agents** — Vietnamese text-to-code, model fine-tuning, reasoning, and tool-augmented workflows.
+- **Privacy-Aware Retrieval** — retrieval systems with an emphasis on privacy and experimental evaluation.
+- **Computer Vision** — deep learning approaches for visual recognition and real-time inference.
+- **Research Foundations** — algorithms, mathematics, and machine learning.
+
+### 🚀 Projects
+
+**DataMate — Zalo AI Challenge 2026**  
+Building an AI system that translates Vietnamese natural-language questions into executable code for analyzing structured business data, with a focus on correctness and reliability.
+
+**[Emotion & Gesture Recognition ↗](https://github.com/DuongGiaBao143/yolov10-mediapipe-gesture-emotion)**  
+Developed a real-time recognition application using deep learning, OpenCV, MediaPipe, and Streamlit as part of a team project.
 
 **Automated Exam Grading**  
-OMR-based answer-sheet processing and grading with Python and OpenCV.
+Built an optical mark recognition (OMR) pipeline using Python and OpenCV to automate multiple-choice exam grading.
 
-**[Assessment Generation Workflows ↗](https://github.com/DuongGiaBao143/Homework-creator)**  
-Agent-assisted mathematics exam generation with shared reference retrieval and reusable workflows for Grades 10 and 12.
-
-<br />
-
-### Technical stack
+### 🛠 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
   <img src="https://img.shields.io/badge/vLLM-2563EB?style=for-the-badge" alt="vLLM" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -60,3 +65,14 @@ Agent-assisted mathematics exam generation with shared reference retrieval and r
   </p>
 </details>
 
+### 🌱 Beyond the Code
+
+I'm continuously learning, experimenting, and exploring research ideas in AI.
+
+Open to collaborating on **AI, Computer Vision, and research projects**.
+
+📫 **Contact:** [bao.duongdgb143@hcmut.edu.vn](mailto:bao.duongdgb143@hcmut.edu.vn)
+
+---
+
+<p align="center"><sub>Always learning. Always experimenting. Always building.</sub></p>
